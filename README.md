@@ -1,9 +1,9 @@
 ## Hi there 👋
 I’m **Mark**, an aspiring software developer passionate about building systems and exploring creative designs. Currently, I’m learning how to create Web APIs while improving my skills in C#”
 
- 🔭 I’m currently working on Hotel Reservation and Billing System
- 🌱 I’m currently learning more about building **Web APIs** and connecting applications
- 🎨 I’m also interested in **system design and UI/UX**  
+🔭 **I’m currently working on:** Hotel Reservation and Billing System  
+🌱 **I’m currently learning:** Building Web APIs and connecting applications  
+🎨 **I’m interested in:** System design and UI/UX
 
 ## 💻 Languages and Tools 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
