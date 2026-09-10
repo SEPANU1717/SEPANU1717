@@ -1,29 +1,52 @@
-## Hi there 👋
-I’m **Mark**, an aspiring software developer passionate about building systems and exploring creative designs. Currently, I’m learning how to create Web APIs while improving my skills in C#”
+<h1 align="center">Hi, I'm Mark Christianiel Manalo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Waving hand"></h1>
 
-🔭 **I’m currently working on:** Hotel Reservation and Billing System  
-🌱 **I’m currently learning:** Building Web APIs and connecting applications  
-🎨 **I’m interested in:** System design and UI/UX
+<p align="center">
+  <strong>Software Developer in Progress</strong> · Building practical systems and thoughtful interfaces
+</p>
 
-## 💻 Languages and Tools 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+<table>
+  <tr>
+    <td width="42%" valign="middle" align="center">
+      <img src="./sepanu.png" width="320" alt="Mark's Octocat holding a laptop">
+    </td>
+    <td width="58%" valign="middle">
+      <h2>About me</h2>
+      <p>
+        I’m <strong>Mark</strong>, an aspiring software developer focused on building useful,
+        reliable applications with clear and considered user experiences.
+      </p>
+      <ul>
+        <li>🔭 Currently building a <strong>Online #D Customization and Ordering System</strong>.</li>
+        <li>🌱 Learning how to design and build <strong>Web APIs</strong> with C# and .NET.</li>
+        <li>🎨 Interested in <strong>system design</strong>, clean architecture, and UI/UX.</li>
+        <li>🧩 Enjoy turning real-world workflows into simple, maintainable software.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+## Tech I use
 
----
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=SEPANU1717&icon=0&color=0)](https://visitcount.itsvg.in)  
+## Featured work
 
-<!-- Generated with GPRM ( https://gprm.itsvg.in ) -->
+- [Hotel Reservation System](https://github.com/SEPANU1717/HotelReservationSystem) — A Windows Forms application for reservations, guest records, billing, check-in/check-out, and user access.
+- [Book Recommendation System](https://github.com/SEPANU1717/BookRecommendationSystem) — A content-based Streamlit app for discovering programming books.
+- [Blender Sepanu Kit](https://github.com/SEPANU1717/blender-sepanu-kit) — A Blender add-on for building isometric rooms and placing assets from the viewport.
 
+<p align="center">
+  <i>Open to learning, collaboration, and opportunities to build useful software.</i>
+</p>
